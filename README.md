@@ -1,4 +1,4 @@
-Hi 👋 My name is Pooria azizi
+Hi 👋 my name is Pooria azizi
 =============================
 
 <!--
