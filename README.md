@@ -2,15 +2,19 @@
 
 <!--
 **pooriaazizi-ce/pooriaazizi-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- I'm Pooria Azizi, a graduate student in Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic), specializing in computer networks.
+  
+- 🔭 I'm passionate about leveraging AI solutions to optimize network performance and security.
+
+- 🌱 Currently, I'm exploring the intersection of reinforcement learning(RL) and networking to develop innovative solutions.
+
+- 👯 I'm always eager to learn and collaborate on exciting projects.
+
+- 💬 Connect with me:
+  - My Linkedin profile [LinkedIn](https://www.linkedin.com/in/puoriaazizi/)
+
+- 📫 Feel free to reach out to me at [My Email](https://www.google.com/webhp?authuser=2)
+
+- 😄 Pronouns: he/him/his
+
