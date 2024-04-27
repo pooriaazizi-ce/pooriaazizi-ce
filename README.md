@@ -8,7 +8,7 @@ Hi 👋 My name is Pooria azizi
 - 🔭 I'm passionate about leveraging AI solutions to optimize network performance and security.
 - 🌱 Currently, I'm exploring the intersection of reinforcement learning(RL) and networking to develop innovative solutions.
 - 👯 I'm always eager to learn and collaborate on exciting projects.
-- 📫 Feel free to reach out to me at [My Email](pooriaazizico@gmail.com)
+- 📫 Feel free to reach out to me at [email](pooriaazizico@gmail.com)
 - 😄 Pronouns: he/him/his
 <!--
 ### Skills
